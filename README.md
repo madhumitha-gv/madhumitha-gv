@@ -1,18 +1,128 @@
-# 💫 About Me:
-🎯 I’m currently pursuing my Masters in Data Science at Indiana University Bloomington<br>🧑‍🤝‍🧑 I’m looking to collaborate on Data Science or AI projects<br>🤝 I am looking for help with building projects and learning GenAI and data engineering stuff<br>🌱 I’m currently learning SQL, Python and LLMs<br>💬 Ask me about on which project I am working now!<br>⚡ Fun fact: I collect stickers like coins
+# Hi there, I'm Madhumitha! 👋
 
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gvenkatamadhumitha@gmail.com) 
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+Engineer+%26+Researcher;Building+Intelligent+Solutions+at+Scale;AWS+Certified+AI+Practitioner)
 
-# 💻 Tech Stack:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhumitha-gv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhumitha-gv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-gv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithagv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgannava@iu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitha-gv)
+
+</div>
+
+## 🚀 About Me
+
+I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer** with 3+ years of experience building scalable AI/ML solutions. Currently conducting cutting-edge research in **medical AI** and **knowledge graphs** while developing production-ready AI applications that solve real-world business problems.
+
+- 🎓 **MS Data Science** @ Indiana University (2024-2026)
+- 💼 **Former Solutions Engineer** @ Deloitte (3+ years in large-scale data operations)
+- 🏆 **AWS Certified AI Practitioner** 
+- 🔬 **Research Assistant** specializing in neuroimaging and Graph-RAG architectures
+- 📊 Processed **100TB+** of data with **99.9% accuracy** in production environments
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+### Databases & Visualization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+## 🔬 Current Research & Projects
+
+### 🧠 Deep Brain Stimulation Research
+*Research Assistant @ IU School of Medicine*
+- Architected **data processing pipeline** for multi-shell diffusion MRI
+- Built **object-oriented framework** generating 10M+ streamlines with automated error handling
+- Achieved **90% data fidelity** across subjects with comprehensive validation systems
+
+### 🕸️ Graph-RAG for Medical Analysis
+*Research Assistant @ IU Luddy School*
+- Designed **Graph-RAG architecture** for medical adverse event analysis
+- Compared vanilla RAG vs hybrid approach with **Neo4j graph traversal** on 10K+ VAERS records
+- Optimized query performance achieving **~300ms latency** while maintaining answer relevance
+
+### 🤖 Multi-Agent AI Travel Planner
+- Built **6-agent collaborative system** using LangGraph
+- Specialized agents autonomously orchestrate personalized travel plans
+- Full-stack implementation with Flask backend and Streamlit frontend
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhumitha-gv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-gv&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-gv&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 Achievements & Certifications
+
+- 🏅 **AWS Certified AI Practitioner**
+- 🏅 **OCI AI Foundations Associate**
+- 📈 **30% improvement** in processing throughput at Deloitte
+- 🎯 **99.9% processing accuracy** with large-scale data operations
+- 🚀 **50% reduction** in cross-regional handoff delays through analytics
+
+## 🌟 Featured Repositories
+
+Here are some of my notable projects that showcase my expertise in AI/ML and data science:
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=scalable-ml-pipeline-aws&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/scalable-ml-pipeline-aws)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=ai-business-intelligence&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/ai-business-intelligence)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=multi-agent-travel-planner&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/multi-agent-travel-planner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=graph-rag-medical-analysis&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/graph-rag-medical-analysis)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on innovative AI/ML projects, especially in healthcare, business intelligence, and scalable data solutions. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithagv)
+[![Email](https://img.shields.io/badge/Drop_a_Line-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgannava@iu.edu)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madhumitha-gv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhumitha-gv&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</div>
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/madhumitha-gv">madhumitha-gv</a> with ❤️</sub>
+</div>
