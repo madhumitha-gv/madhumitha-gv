@@ -68,17 +68,6 @@ I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer*
 - Compared vanilla RAG vs hybrid approach with **Neo4j graph traversal** on 10K+ VAERS records
 - Optimized query performance achieving **~300ms latency** while maintaining answer relevance
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhumitha-gv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-gv&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-gv&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🤝 Let's Connect!
 
