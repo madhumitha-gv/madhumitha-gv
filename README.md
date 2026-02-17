@@ -68,11 +68,6 @@ I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer*
 - Compared vanilla RAG vs hybrid approach with **Neo4j graph traversal** on 10K+ VAERS records
 - Optimized query performance achieving **~300ms latency** while maintaining answer relevance
 
-### 🤖 Multi-Agent AI Travel Planner
-- Built **6-agent collaborative system** using LangGraph
-- Specialized agents autonomously orchestrate personalized travel plans
-- Full-stack implementation with Flask backend and Streamlit frontend
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -82,27 +77,6 @@ I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha-gv&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhumitha-gv&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **AWS Certified AI Practitioner**
-- 🏅 **OCI AI Foundations Associate**
-- 📈 **30% improvement** in processing throughput at Deloitte
-- 🎯 **99.9% processing accuracy** with large-scale data operations
-- 🚀 **50% reduction** in cross-regional handoff delays through analytics
-
-## 🌟 Featured Repositories
-
-Here are some of my notable projects that showcase my expertise in AI/ML and data science:
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=scalable-ml-pipeline-aws&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/scalable-ml-pipeline-aws)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=ai-business-intelligence&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/ai-business-intelligence)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=multi-agent-travel-planner&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/multi-agent-travel-planner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madhumitha-gv&repo=graph-rag-medical-analysis&theme=tokyonight&hide_border=true)](https://github.com/madhumitha-gv/graph-rag-medical-analysis)
 
 </div>
 
