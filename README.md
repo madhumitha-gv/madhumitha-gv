@@ -18,7 +18,7 @@ I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer*
 - 💼 **Former Solutions Engineer** @ Deloitte (3+ years in large-scale data operations)
 - 🏆 **AWS Certified AI Practitioner** 
 - 🔬 **Research Assistant** specializing in neuroimaging and Graph-RAG architectures
-- 📊 Processed **100TB+** of data with **99.9% accuracy** in production environments
+
 
 ## 🛠️ Tech Stack
 
