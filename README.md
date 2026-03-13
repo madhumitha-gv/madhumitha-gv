@@ -15,7 +15,7 @@
 I'm a **Data Science Graduate Student** at Indiana University and **AI Engineer** with 3+ years of experience building scalable AI/ML solutions. Currently conducting cutting-edge research in **medical AI** and **knowledge graphs** while developing production-ready AI applications that solve real-world business problems.
 
 - 🎓 **MS Data Science** @ Indiana University (2024-2026)
-- 💼 **Former Solutions Engineer** @ Deloitte (2+ years in large-scale data operations)
+- 💼 **Former Solutions Analyst** @ Deloitte (2+ years in engineering large-scale unstructured data)
 - 🏆 **AWS Certified AI Practitioner** 
 - 🔬 **Research Assistant** specializing in neuroimaging and Graph-RAG architectures
 
